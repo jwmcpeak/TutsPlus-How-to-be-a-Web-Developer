@@ -1,0 +1,33 @@
+body {
+    /*font-size: 18px;
+    font-family: "arial", "helvetica", sans-serif;*/
+    
+    font: 18px "arial", "helvetica", sans-serif;
+    line-height: 32px;
+    /*background-color: #000000;*/
+}
+
+h1,
+h3 {
+    font-style: italic;
+}
+
+#sidebar {
+    background-color: green;
+}
+
+#main-content {
+    background-color: lightgray;
+}
+
+span.error {
+    color: red;
+}
+
+h3.error {
+    color: crimson;
+}
+
+span {
+    color: purple;
+}
